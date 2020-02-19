@@ -1,2 +1,2 @@
 *.py linguist-detectable=true
-*.md linguist-detectable=false
+*.rtf linguist-detectable=false
