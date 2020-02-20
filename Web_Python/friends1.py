@@ -6,7 +6,7 @@ from operator import itemgetter
 def calc_age(uid):
 
     now = datetime.datetime.now()
-    ACCESS_TOKEN = '17da724517da724517da72458517b8abce117da17da72454d235c274f1a2be5f45ee711'
+    ACCESS_TOKEN = ''   #yoyr token here
     ages = []
     age_and_number = {}
 
